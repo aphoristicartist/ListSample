@@ -1,0 +1,28 @@
+disabled_rules:
+ - trailing_whitespace
+excluded:
+ - Pods
+
+force_try: error
+force_cast: error
+line_length: 256
+colon:
+apply_to_dictionaries: false
+attributes: warning
+closure_end_indentation: warning
+closure_spacing: warning
+discouraged_optional_boolean: warning
+discouraged_optional_collection: warning
+empty_count: warning
+empty_string: warning
+first_where: warning
+implicit_return: warning
+implicitly_unwrapped_optional: warning
+let_var_whitespace: warning
+literal_expression_end_indentation: warning
+operator_usage_whitespace: warning
+private_action: warning
+private_outlet: warning
+unneeded_parentheses_in_closure_argument: warning
+untyped_error_in_catch: warning
+identifier_name: warning
