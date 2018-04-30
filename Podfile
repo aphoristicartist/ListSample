@@ -7,10 +7,11 @@ target 'ListSample' do
   # Pods for ListSample
   pod 'Alamofire'
   pod 'Kingfisher'
+  pod 'TinyConstraints'
   pod 'RxSwift'
   pod 'RxCocoa'
   pod 'SwiftLint'
-  
+
   def testing_pods
   # Pods for testing
     pod 'RxBlocking'
